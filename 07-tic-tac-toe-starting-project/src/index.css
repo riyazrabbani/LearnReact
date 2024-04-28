@@ -107,6 +107,16 @@ h1 {
   font-weight: bold;
 }
 
+.player-btn {
+  width: 80%;
+  height: 30px;
+  border-radius: 4px;
+  position: relative;
+  background-color: rgba(255,255,255,0.3);
+  transition: 0.3s all;
+}
+
+
 .player-name {
   display: inline-block;
   width: 10rem;
