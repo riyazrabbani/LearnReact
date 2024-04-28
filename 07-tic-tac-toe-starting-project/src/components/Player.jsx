@@ -16,7 +16,6 @@ export default function Player({ name, symbol }) {
         //btnCaption= 'Save';
     }
 
-
     return (
       <li>
         <span classname = "player">
